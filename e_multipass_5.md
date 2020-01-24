@@ -1,4 +1,4 @@
-# multipass find command lists these alianses on my system:
+# multipass find command lists these aliases on my system:
 
 ## Image                   Aliases           Version          Description
 ## 16.04                   xenial            20200108         Ubuntu 16.04 LTS
