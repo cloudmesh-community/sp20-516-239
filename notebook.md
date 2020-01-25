@@ -1,5 +1,8 @@
 # Notebook Sara Lam sp20-516-239
 
+## Week 01/25/2020 - 01/31/2020
+
+
 ## Week 01/18/2020 - 01/24/2020
 
 * Attended lectures
