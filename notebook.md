@@ -6,7 +6,6 @@
 * Installed Multipass on Windows 10 Edu, python 3.8.1, pycharm, git bash
 * Created python virtual environment on Windows 10 using venv
 * Read *Data Center*  chapter in *Cloud Computing* book.
-* Did data center assignments.
 * Verified info in [README.yml](./README.yml)
 
 ## Week 01/13/2020 - 01/17/2020
@@ -15,6 +14,6 @@
 * Completed zoom poll, bio and class survey
 * Created accounts on github and Chameloen Cloud
 * Read lecture notes up to week 1.
-* Read chapters 1, 2, and 3 of *Cloud Computing*.
+* Read chapters 1, 2, and 3 of *Cloud Computing*. 
 * Watched intro video on youtube.
 * Watched *Definition of Cloud Computing* on youtube.
