@@ -1,14 +1,17 @@
-# First install python-3.8.1
-# Follow these steps to use venv to create virtual environment
+# Create python virtual environment in Windows 10
 
-## 1. Create environment
-- python -m ven ENV3
+## First install python-3.8.1
 
-## 2. Activate environment
-- ENV3\Scripts\activate.bat
+## Follow these steps to use venv to create virtual environment
 
-## 3. Deactivate environment
-- deactivate
+### 1. Create environment
+python -m ven ENV3
+
+### 2. Activate environment
+ENV3\Scripts\activate.bat
+
+### 3. Deactivate environment
+deactivate
 
 ## 4. Delete environment altogether even when there is contents
-- rmdir ENV3 /s
+rmdir ENV3 /s
