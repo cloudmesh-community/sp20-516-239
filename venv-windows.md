@@ -5,7 +5,7 @@
 ## Follow these steps to use venv to create virtual environment
 
 ### 1. Create environment
-python -m ven ENV3
+python -m venv ENV3
 
 ### 2. Activate environment
 ENV3\Scripts\activate.bat
