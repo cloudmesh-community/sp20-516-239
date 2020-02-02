@@ -16,6 +16,14 @@ https://coolclimate.berkeley.edu/calculator
 
 ![](images/carbon_footprint.PNG)
 
+## Data Center 4, other renewable energy  
+
+Biogas fuel cells transform waster streams directly into electricity, with zero emissions.  Apple has data centers using biogas fuel cells, including Maiden, NC and Cupertino, CA.  
+
+## Data Center 5, UPS efforts towards renewables
+
+
+https://sustainability.ups.com/sustainability-strategy/environmental-responsibility
 
 
 
