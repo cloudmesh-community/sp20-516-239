@@ -14,5 +14,8 @@ https://www.leg.state.nv.us/App/NELIS/REL/79th2017/ExhibitDocument/OpenExhibitDo
 
 https://coolclimate.berkeley.edu/calculator
 
+![](images/carbon_footprint)
+
+
 
 
