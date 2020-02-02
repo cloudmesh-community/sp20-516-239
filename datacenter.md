@@ -6,7 +6,9 @@ Apple's Reno data center was opened in 2012.  It was designed to use 80% of wate
 
 ### Reference
 https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf
+
 https://www.datacenters.com/apple-inc-reno
+
 https://www.leg.state.nv.us/App/NELIS/REL/79th2017/ExhibitDocument/OpenExhibitDocument?exhibitId=26170&fileDownloadName=0215_CauPa-NV%20Energy.pdf
 
 ## Data Center 3, my own carbon footprint
@@ -39,6 +41,9 @@ https://sustainability.ups.com/sustainability-strategy/environmental-responsibil
 https://sustainability.ups.com/progress-report/ceo-message
 
 https://sustainability.ups.com/progress-report/goals-and-progress/
+
+
+## Data Center 8, data center outage
 
 
 
