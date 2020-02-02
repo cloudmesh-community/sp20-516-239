@@ -2,6 +2,9 @@
 
 ## Week 01/25/2020 - 01/31/2020
 
+* Attended lecture
+* Reviewed python
+* Completed datacenter.md assignment
 
 ## Week 01/18/2020 - 01/24/2020
 
