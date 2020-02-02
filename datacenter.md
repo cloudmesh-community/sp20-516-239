@@ -11,16 +11,20 @@ https://www.datacenters.com/apple-inc-reno
 
 https://www.leg.state.nv.us/App/NELIS/REL/79th2017/ExhibitDocument/OpenExhibitDocument?exhibitId=26170&fileDownloadName=0215_CauPa-NV%20Energy.pdf
 
+
 ## Data Center 3, My Own Carbon Footprint
 
-https://coolclimate.berkeley.edu/calculator
-
 ![](images/carbon_footprint.PNG)
+
+https://coolclimate.berkeley.edu/calculator
 
 
 ## Data Center 4, Other Renewable Energy  
 
 Biogas fuel cells transform waster streams directly into electricity, with zero emissions.  Apple has data centers using biogas fuel cells, including Maiden, NC and Cupertino, CA.  
+
+### Reference
+https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf
 
 
 ## Data Center 5, UPS Efforts towards Renewables
@@ -44,7 +48,6 @@ https://sustainability.ups.com/progress-report/goals-and-progress/
 
 
 ## Data Center 8, Data Center Outage
-
 
 Google Cloud was down on June 2, 2019.  Services were disrupted for up to 4.5 hours.  The root cause was a configuration change for a small group of servers in one region being wrongly applied to a larger number of servers across several neighboring regions.  Although Google's engineers detected the issue within seconds, but it took far longer than its target of a few minutes to remediate the problem, in part because the network congestion hampered engineers' ability to restore the correct configurations.  Impacted companies include Snapchat, Vimeo, Shopify, Discord, Pokemon GO.  Google's own services were also affected, such as YouTube, Gmail, Google Search, G Suite, Hangouts, Google Drive, Google Docs, Google Nest, and others.  Users in North America were impacted the most, some European users also experienced problems.  YouTube measured a 10% drop in global views during the incident, while Google Cloud Storage measured a 30% reduction in traffic.  Approximately 1% of active Gmail users had problems with their account.  Google Cloud Platform services were affected until mitigation completed for each region, including: Google Compute Engine, App Engine, Cloud Endpoints, Cloud Interconnect, Cloud VPN, Cloud Console, Stackdriver Metrics, Cloud Pub/Sub, Bigquery, regional Cloud Spanner instances, and Cloud Storage regional buckets. G Suite services in these regions were also affected.
 
