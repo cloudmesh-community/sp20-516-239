@@ -14,7 +14,7 @@ Apple's Reno data center was opened in 2012.  It was designed to use 80% of wate
 
 ## Data Center 3, My Own Carbon Footprint
 
-![](images/carbon_footprint.PNG)
+![Figure My Carbon Footprint](images/carbon_footprint.PNG){#fig: footprint width=1in}
 
 <https://coolclimate.berkeley.edu/calculator>
 
