@@ -33,7 +33,11 @@ Apple's Reno data center was opened in 2012.  It was designed to use 80% of wate
 
 Biogas fuel cells transform waste streams directly into electricity, with zero emissions.  
 
-Biogas is the mixture of gases produced by the breakdown of organic matter in the absence of oxygen (anaerobically), primarily consisting of methane and carbon dioxide. Biogas can be produced from raw materials such as agricultural waste, manure, municipal waste, plant material, sewage, green waste or food waste. Biogas is a renewable energy source. In India, it is also known as "Gobar Gas" [@sp20-516-239-biogas].
+Biogas is the mixture of gases produced by the breakdown of organic matter in the absence of oxygen (anaerobically), primarily consisting of methane and carbon dioxide. Biogas can be produced from raw materials such as agricultural waste, manure, municipal waste, plant material, sewage, green waste or food waste. Biogas is a renewable energy source [@sp20-516-239-biogas].
+
+@fig:sp20-516-239-biogas_cycle shows how biogas is generated
+
+![Biogas Fuel](images/Reno_data_center.PNG){#fig:sp20-516-239-biogas_cycle}
 
 
 Apple has data centers using biogas fuel cells, including Maiden, NC and Cupertino, CA.  
