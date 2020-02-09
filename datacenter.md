@@ -37,7 +37,7 @@ Biogas is the mixture of gases produced by the breakdown of organic matter in th
 
 @fig:sp20-516-239-biogas_cycle shows how biogas is generated
 
-![Biogas Fuel](images/Reno_data_center.PNG){#fig:sp20-516-239-biogas_cycle}
+![Biogas Fuel](images/biogas_cycle.PNG){#fig:sp20-516-239-biogas_cycle}
 
 
 Apple has data centers using biogas fuel cells, including Maiden, NC and Cupertino, CA.  
