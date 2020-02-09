@@ -35,7 +35,7 @@ Biogas fuel cells transform waste streams directly into electricity, with zero e
 
 Biogas is the mixture of gases produced by the breakdown of organic matter in the absence of oxygen (anaerobically), primarily consisting of methane and carbon dioxide. Biogas can be produced from raw materials such as agricultural waste, manure, municipal waste, plant material, sewage, green waste or food waste. Biogas is a renewable energy source [@sp20-516-239-biogas].
 
-@fig:sp20-516-239-biogas_cycle shows how biogas is generated
+@fig:sp20-516-239-biogas_cycle shows how biogas is generated [@sp20-516-239-biogas_fleet]:
 
 ![Biogas Fuel](images/biogas_cycle.PNG){#fig:sp20-516-239-biogas_cycle}
 
