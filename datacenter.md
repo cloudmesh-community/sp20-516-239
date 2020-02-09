@@ -5,18 +5,18 @@
 Apple's Reno data center was opened in 2012.  It was designed to use 80% of water for cooling than previous data centers.  It received the  U.S. Green Building Council’s LEED certification for conserving water and energy, reducing waste, and using renewable energy.  The data center is 375,000 sqft.  It uses 100% renewable energy through the Neveda Green Rider solar project.  
 
 ### Reference
-https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf
+<https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf>
 
-https://www.datacenters.com/apple-inc-reno
+<https://www.datacenters.com/apple-inc-reno>
 
-https://www.leg.state.nv.us/App/NELIS/REL/79th2017/ExhibitDocument/OpenExhibitDocument?exhibitId=26170&fileDownloadName=0215_CauPa-NV%20Energy.pdf
+<https://www.leg.state.nv.us/App/NELIS/REL/79th2017/ExhibitDocument/OpenExhibitDocument?exhibitId=26170&fileDownloadName=0215_CauPa-NV%20Energy.pdf>
 
 
 ## Data Center 3, My Own Carbon Footprint
 
 ![](images/carbon_footprint.PNG)
 
-https://coolclimate.berkeley.edu/calculator
+<https://coolclimate.berkeley.edu/calculator>
 
 
 ## Data Center 4, Other Renewable Energy  
@@ -40,11 +40,11 @@ UPS uses an integrated pickup and delivery system to optimize network to reduce 
 UPS reports its progress on sustainability goals.  By 2020, UPS has 25% of total vehicles purchased annually that are alternative fuel or advanced technology vehicles.  
 
 ### Reference
-https://sustainability.ups.com/sustainability-strategy/environmental-responsibility
+<https://sustainability.ups.com/sustainability-strategy/environmental-responsibility>
 
-https://sustainability.ups.com/progress-report/ceo-message
+<https://sustainability.ups.com/progress-report/ceo-message>
 
-https://sustainability.ups.com/progress-report/goals-and-progress/
+<https://sustainability.ups.com/progress-report/goals-and-progress/>
 
 
 ## Data Center 8, Data Center Outage
@@ -53,13 +53,13 @@ Google Cloud was down on June 2, 2019.  Services were disrupted for up to 4.5 ho
 
 ### Reference
 
-https://www.zdnet.com/article/google-details-catastrophic-cloud-outage-events-promises-to-do-better-next-time/
+<https://www.zdnet.com/article/google-details-catastrophic-cloud-outage-events-promises-to-do-better-next-time/>
 
-https://www.zdnet.com/article/google-cloud-goes-down-taking-youtube-gmail-snapchat-and-others-with-it/
+<https://www.zdnet.com/article/google-cloud-goes-down-taking-youtube-gmail-snapchat-and-others-with-it/>
 
-https://www.zdnet.com/article/google-heres-what-caused-sundays-big-outage/
+<https://www.zdnet.com/article/google-heres-what-caused-sundays-big-outage/>
 
-https://status.cloud.google.com/incident/cloud-networking/19009
+<https://status.cloud.google.com/incident/cloud-networking/19009>
 
 
 
