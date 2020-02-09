@@ -2,7 +2,7 @@
 
 ## Data Center 2, Apple Reno NV Data Center
 
-Apple's Reno data center was opened in 2012.  It was designed to use 80% of water for cooling than previous data centers.  It received the  U.S. Green Building Council’s LEED certification for conserving water and energy, reducing waste, and using renewable energy.  The data center is 375,000 sqft.  It uses 100% renewable energy through the Neveda Green Rider solar project.  
+Apple's Reno data center was opened in 2012.  It was designed to use 80% of water for cooling than previous data centers.  It received the  U.S. Green Building Council’s LEED certification for conserving water and energy, reducing waste, and using renewable energy [@sp20-516-239-apple].  The data center is 375,000 sqft.  It uses 100% renewable energy through the Neveda Green Rider solar project.  
 
 ### Reference
 
@@ -24,7 +24,7 @@ Apple's Reno data center was opened in 2012.  It was designed to use 80% of wate
 <https://coolclimate.berkeley.edu/calculator>
 
 
-## Data Center 4, Other Renewable Energy  
+## Data Center 4, Other Renewable Energy - Biogas Fuel
 
 Biogas fuel cells transform waster streams directly into electricity, with zero emissions.  Apple has data centers using biogas fuel cells, including Maiden, NC and Cupertino, CA.  
 
