@@ -14,7 +14,7 @@
 
 * Attended lecture
 * Reviewed python
-* Revised datacenter.md assignment
+* Corrected datacenter.md assignment
 * Submitted chapter selection
 
 ## Week 01/25/2020 - 01/31/2020
