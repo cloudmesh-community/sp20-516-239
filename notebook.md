@@ -1,5 +1,15 @@
 # Notebook Sara Lam sp20-516-239
 
+## Week 02/15/2020 - 02/21/2020
+
+* 
+
+## Week 02/08/2020 - 02/14/2020
+
+* Attended lecture
+* Submitted project selection
+* Installed Cloudmesh for Windows
+
 ## Week 02/01/2020 - 02/07/2020
 
 * Attended lecture
