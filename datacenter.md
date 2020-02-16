@@ -44,7 +44,7 @@ Apple has data centers using biogas fuel cells, including Maiden, NC and Cuperti
 
 ### Reference
 
-https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf
+<https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf>
 
 
 ## Data Center 5, UPS Efforts towards Renewables
