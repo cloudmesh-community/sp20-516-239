@@ -1,8 +1,14 @@
 # Notebook Sara Lam sp20-516-239
 
-## Week 02/15/2020 - 02/21/2020
+## Week 02/22/2020 - 02/28/2020
 
 * 
+
+## Week 02/15/2020 - 02/21/2020
+
+* Attended lecture
+* Zoom meeting with Professor to fix issue and login to a VM on Horizaon
+* Zoom meeting with Professor and installed Cloudmesh and Mongodb with Docker
 
 ## Week 02/08/2020 - 02/14/2020
 
