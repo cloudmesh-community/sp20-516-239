@@ -9,6 +9,7 @@
 * Attended lecture
 * Zoom meeting with Professor to fix issue and login to a VM on Horizaon
 * Zoom meeting with Professor and installed Cloudmesh and Mongodb with Docker
+* Created projectproposal.md
 
 ## Week 02/08/2020 - 02/14/2020
 
