@@ -15,6 +15,10 @@
 * Maintaining duplicate data, data quality
 * Security, privacy, ethical questions
 
+Reference
+
+<https://www.disruptordaily.com/challenges-ai-cloud-computing/>
+
 ## Choosing Providers
 
 ## Future of Cloud AI Services
