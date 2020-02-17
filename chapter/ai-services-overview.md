@@ -10,6 +10,11 @@
 
 ## Challenges to Cloud AI Adoption
 
+* Technology integration and implementation
+* Balancing cost, performance, workload management and data access
+* Maintaining duplicate data, data quality
+* Security, privacy, ethical questions
+
 ## Choosing Providers
 
 ## Future of Cloud AI Services
