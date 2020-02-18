@@ -11,7 +11,7 @@
 * Zoom meeting with Professor to fix issue and login to a VM on Horizaon
 * Zoom meeting with Professor and installed Cloudmesh and Mongodb with Docker
 * Created projectproposal.md
-* Modified the example_def.py program to print parameter if value==int
+* Modified the example_def.py program to print parameter if value==int.  Learned how to use terminal to run python program
 
 ## Week 02/08/2020 - 02/14/2020
 
