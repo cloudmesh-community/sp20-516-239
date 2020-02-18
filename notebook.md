@@ -7,9 +7,11 @@
 ## Week 02/15/2020 - 02/21/2020
 
 * Attended lecture
+* Learned how to edit chapter in Rhonda's HID
 * Zoom meeting with Professor to fix issue and login to a VM on Horizaon
 * Zoom meeting with Professor and installed Cloudmesh and Mongodb with Docker
 * Created projectproposal.md
+* Modified the example_def.py program to print parameter if value==int
 
 ## Week 02/08/2020 - 02/14/2020
 
