@@ -26,11 +26,6 @@ class Provider:
         os.system("multipass get client.gui.autostart")
         print('\n')
 
-    # def recover(self):
-    #     banner(f"recover {self.name}")
-    #     os.system(f"multipass recover --all")
-    #     print('\n')
-
     def stop(self):
         banner("stop")
         os.system("multipass stop")
