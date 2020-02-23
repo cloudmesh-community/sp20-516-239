@@ -11,6 +11,8 @@ Apple's Reno data center was opened in 2012.  It was designed to use 80% of wate
 
 ### Reference
 
+<https://www.nnbw.com/news/apple-finishes-reno-warehouse-announces-northern-nevada-expansion/#>
+
 <https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf>
 
 <https://www.datacenters.com/apple-inc-reno>
