@@ -2,6 +2,7 @@
 
 ## Week 02/22/2020 - 02/28/2020
 
+* Completed draft in "Introduction to AI Services for Cloud Computing"
 * 
 
 ## Week 02/15/2020 - 02/21/2020
