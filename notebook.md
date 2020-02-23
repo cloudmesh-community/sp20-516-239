@@ -13,6 +13,7 @@
 * Zoom meeting with Professor and installed Cloudmesh and Mongodb with Docker
 * Created projectproposal.md
 * Modified the example_def.py program to print parameter if value==int.  Learned how to use terminal to run python program
+* Discussed writing for "Introduction to AI Services for Cloud Computing" with Rhonda
 
 ## Week 02/08/2020 - 02/14/2020
 
