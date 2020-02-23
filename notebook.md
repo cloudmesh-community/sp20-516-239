@@ -1,5 +1,10 @@
 # Notebook Sara Lam sp20-516-239
 
+
+## Week 02/29/2020 - 03/06/2020
+
+*
+
 ## Week 02/22/2020 - 02/28/2020
 
 * Completed draft in "Introduction to AI Services for Cloud Computing"
