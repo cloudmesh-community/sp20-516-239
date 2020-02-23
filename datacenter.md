@@ -44,6 +44,8 @@ Apple has data centers using biogas fuel cells, including Maiden, NC and Cuperti
 
 ### Reference
 
+<https://fleet.ie/biogas-a-safe-sustainable-and-economical-solution-to-decarbonise-fleets/>
+
 <https://www.apple.com/environment/pdf/Apple_Environmental_Responsibility_Report_2019.pdf>
 
 
@@ -81,6 +83,8 @@ Google Cloud was down on June 2, 2019.  Services were disrupted for up to 4.5 ho
 <https://www.zdnet.com/article/google-heres-what-caused-sundays-big-outage/>
 
 <https://status.cloud.google.com/incident/cloud-networking/19009>
+
+
 
 
 
