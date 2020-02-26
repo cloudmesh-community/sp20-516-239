@@ -6,7 +6,7 @@ Apple's Reno data center was opened in 2012.  It was designed to use 80% of wate
 
 @fig:sp20-516-239-Reno_data_center shows Apple Reno, Nevada Data Center
 
-![Apple Reno, Nevada Data Center[@sp20-516-239-Reno_data_center]](images/Reno_data_center.PNG){#fig:sp20-516-239-Reno_data_center}
+![Apple Reno, Nevada Data Center [@sp20-516-239-Reno_data_center]](images/Reno_data_center.PNG){#fig:sp20-516-239-Reno_data_center}
 
 
 ### Reference
