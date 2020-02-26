@@ -1,5 +1,7 @@
 # CLoud AI Services Overview
 
+:o2: complete
+
 * sp20-516-239 Sara Lam
 
 # Outline
