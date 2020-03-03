@@ -9,6 +9,7 @@
 
 * Completed 1st draft in "Introduction to AI Services for Cloud Computing"
 * Read part of REST Chapter in Cloud Computing book, watched several videos on YouTube to better understand concepts
+* Will be working on gdrive for Project cloudmesh-storage.  Read cloudmesh manual about google drive
 * Tried to run commands for gdirve, but not successful
 * Created AWS account, but was not yet successful in running command either
 
