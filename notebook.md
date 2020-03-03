@@ -3,12 +3,13 @@
 
 ## Week 02/29/2020 - 03/06/2020
 
-*
+* Read part of REST Chapter in Cloud Computing book, watched several videos on YouTube to better understand concepts
+* Tried to run commands for gdirve, but not successful
+* Created AWS account, but was not yet successful in running command either
 
 ## Week 02/22/2020 - 02/28/2020
 
 * Completed 1st draft in "Introduction to AI Services for Cloud Computing"
-* 
 
 ## Week 02/15/2020 - 02/21/2020
 
