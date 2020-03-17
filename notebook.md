@@ -1,9 +1,21 @@
 # Notebook Sara Lam sp20-516-239
 
+## Week 03/14/2020 - 03/20/2020
+
+* Enabled Google Drive API with authentication working on website (not in cloudmesh yet)
+* Ran the quickstart.py successfully
+* Reinstalled mongo
+* With Professor's help, reinstalled python, cloudmesh
+
+## Week 03/07/2020 - 03/13/2020
+
+* Created new user account sara without space
+* Reinstalled cloudmesh (later turned out to have errors)
+* Tried to authenticate again Google Drive but had errors
 
 ## Week 02/29/2020 - 03/06/2020
 
-
+* Better understanding requirements of cloudmesh-storage project
 
 ## Week 02/22/2020 - 02/28/2020
 
