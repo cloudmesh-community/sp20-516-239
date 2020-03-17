@@ -4,8 +4,9 @@
 
 * Enabled Google Drive API with authentication working on website (not in cloudmesh yet)
 * Ran the quickstart.py successfully
-* Reinstalled mongo
+* Reinstalled mongo, pycharm, gitbash, visual studios
 * With Professor's help, reinstalled python, cloudmesh
+* Cloned HID directory to pycharm
 
 ## Week 03/07/2020 - 03/13/2020
 
