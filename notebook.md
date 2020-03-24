@@ -1,5 +1,12 @@
 # Notebook Sara Lam sp20-516-239
 
+## Week 03/28/2020 - 04/03/2020
+
+## Week 03/21/2020 - 03/27/2020
+
+* Ran python codes for several functions with Google Drive (not with cloudmesh yet)
+* Functions include list, upload file, download, create directory, insert file, search file, delete file
+
 ## Week 03/14/2020 - 03/20/2020
 
 * Enabled Google Drive API with authentication working on website (not in cloudmesh yet)
