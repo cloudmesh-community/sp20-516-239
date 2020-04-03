@@ -1,10 +1,12 @@
 # Notebook Sara Lam sp20-516-239
 
+## Week 04/04/2020 - 04/10/2020
+
 ## Week 03/28/2020 - 04/03/2020
 
 * As Niranda suggested, did these as interim steps - replaced Provider.py authentication method first with my method in "quickstart2.py"
-* Without using cloudmesh.yaml for now
-* Also replaced list and upload methods
+* Without using cloudmesh.yaml, without using StorageABC methods for now
+* Also replaced list and upload methods in Provider.py and they worked, without using StorageABC methods for now
 
 ## Week 03/21/2020 - 03/27/2020
 
