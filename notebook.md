@@ -2,6 +2,10 @@
 
 ## Week 03/28/2020 - 04/03/2020
 
+* As Niranda suggested, did these as interim steps - replaced Provider.py authentication method first with my method in "quickstart2.py"
+* Without using cloudmesh.yaml for now
+* Also replaced list and upload methods
+
 ## Week 03/21/2020 - 03/27/2020
 
 * Ran python codes for several functions with Google Drive (not with cloudmesh yet)
