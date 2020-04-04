@@ -2,6 +2,8 @@
 
 ## Week 04/04/2020 - 04/10/2020
 
+* Got anthentication with cloudmesh.yaml working
+
 ## Week 03/28/2020 - 04/03/2020
 
 * As Niranda suggested, did these as interim steps - replaced Provider.py authentication method first with my method in "quickstart2.py"
