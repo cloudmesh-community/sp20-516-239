@@ -5,6 +5,8 @@
 ## Week 04/04/2020 - 04/10/2020
 
 * Got anthentication with cloudmesh.yaml working
+* Several functions in Provider.py work now, e.g. list, delete, create_dir, download
+* Working on issues with these functions in Provider: get, search, put
 
 ## Week 03/28/2020 - 04/03/2020
 
