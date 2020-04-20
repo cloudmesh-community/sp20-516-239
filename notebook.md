@@ -1,6 +1,14 @@
 # Notebook Sara Lam sp20-516-239
 
+## Week 04/18/2020 - 04/24/2020
+
+* Incorporated StorageQueue, with help from Shihui, updated return statements at the end of functions
+* With new return statements, got these functions working: list_run, search_run, get_run, put_run (partially) when recursive=False
+* Still need to fix some errors, and need to work on recursive=True
+
 ## Week 04/11/2020 - 04/17/2020
+
+* Inheriting StorageQueue, instead of StorageABC previously used, and got delete_run working
 
 ## Week 04/04/2020 - 04/10/2020
 
